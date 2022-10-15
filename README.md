@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate anything tech!
 - 📫 How to reach me : binoyvk99@gmail.com
 
+Edit 1 trial
+
 <!---
 binoyyee/binoyyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
